@@ -1,0 +1,13 @@
+catboost==1.2.9
+category_encoders==2.9.0
+joblib==1.5.3
+lightgbm==4.6.0
+numpy==2.4.2
+pandas==3.0.0
+polars==1.38.1
+pyarrow==23.0.1
+scikit-learn==1.8.0
+scipy==1.17.0
+
+
+
